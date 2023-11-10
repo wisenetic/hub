@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Wisenetic',
+  title: 'Wisenetic HUB',
   tagline: 'Harnessing Wise Technology, Attracting Success',
   favicon: 'img/favicon.ico',
 
@@ -58,7 +58,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Wisenetic',
+      title: 'Wisenetic HUB',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.png',
