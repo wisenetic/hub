@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wisenetic.github.io/hub/blog</id>
-    <title>Wisenetic Blog</title>
+    <title>Wisenetic HUB Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wisenetic.github.io/hub/blog"/>
-    <subtitle>Wisenetic Blog</subtitle>
+    <subtitle>Wisenetic HUB Blog</subtitle>
     <icon>https://wisenetic.github.io/hub/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
