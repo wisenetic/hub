@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhub=self.webpackChunkhub||[]).push([[9584],{843:a=>{a.exports=JSON.parse('{"label":"digital-transformation","permalink":"/blog/tags/digital-transformation","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
