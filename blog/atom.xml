@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wisenetic.github.io/blog</id>
+    <id>https://hub.wisenetic.com/blog</id>
     <title>Wisenetic HUB Blog</title>
     <updated>2023-11-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wisenetic.github.io/blog"/>
+    <link rel="alternate" href="https://hub.wisenetic.com/blog"/>
     <subtitle>Wisenetic HUB Blog</subtitle>
-    <icon>https://wisenetic.github.io/img/favicon.ico</icon>
+    <icon>https://hub.wisenetic.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Empowering Small Businesses: E-Commerce and AI in Emerging Markets]]></title>
-        <id>https://wisenetic.github.io/blog/small-businesses-ecommerce-ai</id>
-        <link href="https://wisenetic.github.io/blog/small-businesses-ecommerce-ai"/>
+        <id>https://hub.wisenetic.com/blog/small-businesses-ecommerce-ai</id>
+        <link href="https://hub.wisenetic.com/blog/small-businesses-ecommerce-ai"/>
         <updated>2023-11-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[e-commerce image]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="e-commerce image" src="https://wisenetic.github.io/assets/images/e-com-7e303e2d893ede91294495bd06b2ef0e.png" width="1024" height="576" class="img_ev3q"></p>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="e-commerce image" src="https://hub.wisenetic.com/assets/images/e-com-7e303e2d893ede91294495bd06b2ef0e.png" width="1024" height="576" class="img_ev3q"></p>
 <hr>
 <p><strong>Introduction:</strong> In today's changing world, small businesses in emerging markets are discovering exciting opportunities for growth by combining the powers of online selling (e-commerce) and smart technology (artificial intelligence or AI). This blog will explore how these cool technologies are reshaping the way small businesses work, connect with customers, and succeed in emerging markets.</p>
 <p><strong>The Rise of E-Commerce for Small Businesses:</strong> local shops and small businesses are now setting up digital shops on the internet. People can now buy things online easily, and this is not only changing how people shop but is also giving smaller businesses a chance to compete better in the big market.</p>
@@ -35,11 +35,11 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Your Pathway to Seamless Digital Experiences with Wisenetic]]></title>
-        <id>https://wisenetic.github.io/blog/welcome-to-wisenetic</id>
-        <link href="https://wisenetic.github.io/blog/welcome-to-wisenetic"/>
+        <id>https://hub.wisenetic.com/blog/welcome-to-wisenetic</id>
+        <link href="https://hub.wisenetic.com/blog/welcome-to-wisenetic"/>
         <updated>2023-10-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Wisenetic logo]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="Wisenetic logo" src="https://wisenetic.github.io/assets/images/wisenetic-5d83760104b6ce8cb4b8c7f3c5ab1b70.jpg" width="1600" height="900" class="img_ev3q"></p>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Wisenetic logo" src="https://hub.wisenetic.com/assets/images/wisenetic-5d83760104b6ce8cb4b8c7f3c5ab1b70.jpg" width="1600" height="900" class="img_ev3q"></p>
 <p>Harnessing Wise Technology, Attracting Success</p>
 <hr>
 <p><strong>Introduction:</strong> Welcome to the exciting world of Wisenetic Technologies! 🚀 In a realm where technology shapes our present and propels us into the future, we’re not just a company; we’re your trusted co-pilots on the journey of tech-powered growth and innovation.</p>
