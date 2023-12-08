@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhub=self.webpackChunkhub||[]).push([[8779],{4237:e=>{e.exports=JSON.parse('{"label":"e-commerce","permalink":"/blog/tags/e-commerce","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

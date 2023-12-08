@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhub=self.webpackChunkhub||[]).push([[5236],{9911:a=>{a.exports=JSON.parse('{"label":"hyva","permalink":"/blog/tags/hyva","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

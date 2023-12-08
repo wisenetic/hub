@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhub=self.webpackChunkhub||[]).push([[4572],{7997:a=>{a.exports=JSON.parse('{"label":"magento","permalink":"/blog/tags/magento","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
