@@ -3,10 +3,10 @@ slug: how-to-migrate-magento-2-store-to-hyva-theme
 title: 'The Ultimate Guide: Migrating Your Magento 2 Store to Hyvä Theme'
 authors: [gaurav]
 tags: [magento, hyva, e-commerce]
-image: ./poster.gif
+image: ./poster.png
 ---
 
-![e-commerce image](./poster.gif)
+![e-commerce image](./poster.png)
 
 ---
 
