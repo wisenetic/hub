@@ -64,11 +64,23 @@ const config: Config = {
         src: 'img/logo.png',
       },
       items: [
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'tutorialSidebar',
+        //   position: 'left',
+        //   label: 'Tutorial',
+        // },
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'magento',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Magento',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'odoo',
+          position: 'left',
+          label: 'Odoo',
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
