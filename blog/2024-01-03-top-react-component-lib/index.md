@@ -6,7 +6,7 @@ tags: [React, UI]
 image: ./poster.png
 ---
 
-![UI Component image](./poster.png)
+![UI Component libraries image](./poster.png)
 
 ---
 
