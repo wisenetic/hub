@@ -40,9 +40,9 @@ In the ever-evolving landscape of web development, staying updated with the late
 
 ### 4. NextUI
 
-- **Key Features :** Themeability, accessibility, and a component-based architecture.
+- **Key Features :** Themeability, accessibility, Dark mode, and a component-based architecture.
 
-- **Why Choose :** Offers a delightful developer experience and empowers developers to create beautiful and accessible interfaces with ease.
+- **Why Choose :** NextUI is a UI library for React that helps you build beautiful and accessible user interfaces. Created on top of Tailwind CSS and React Aria.
 
 - **URL :** https://nextui.org/
 
