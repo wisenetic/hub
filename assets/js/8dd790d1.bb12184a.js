@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhub=self.webpackChunkhub||[]).push([[2375],{4321:s=>{s.exports=JSON.parse('{"label":"UI","permalink":"/blog/tags/ui","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
