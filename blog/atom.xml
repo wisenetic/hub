@@ -55,10 +55,10 @@
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-nextui">4. NextUI<a href="https://hub.wisenetic.com/blog/top-10-react-component-libraries#4-nextui" class="hash-link" aria-label="Direct link to 4. NextUI" title="Direct link to 4. NextUI">​</a></h3>
 <ul>
 <li>
-<p><strong>Key Features :</strong> Themeability, accessibility, and a component-based architecture.</p>
+<p><strong>Key Features :</strong> Themeability, accessibility, Dark mode, and a component-based architecture.</p>
 </li>
 <li>
-<p><strong>Why Choose :</strong> Offers a delightful developer experience and empowers developers to create beautiful and accessible interfaces with ease.</p>
+<p><strong>Why Choose :</strong> NextUI is a UI library for React that helps you build beautiful and accessible user interfaces. Created on top of Tailwind CSS and React Aria.</p>
 </li>
 <li>
 <p><strong>URL :</strong> <a href="https://nextui.org/" target="_blank" rel="noopener noreferrer">https://nextui.org/</a></p>
